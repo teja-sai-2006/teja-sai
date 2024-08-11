@@ -1,2 +1,2 @@
 # teja-sai
-my projects
+projects
